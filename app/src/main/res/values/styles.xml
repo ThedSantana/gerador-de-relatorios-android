@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="EditTextFiltro">
+        <item name="colorControlActivated">#E0E0E0</item>
+    </style>
+
+    <style name="estilo_texto_item_2">
+        <item name="android:textColor">#3c3c3c</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="estilo_informacao_texto">
+        <item name="android:textColor">#747474</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+</resources>
